@@ -16,7 +16,7 @@
 </script>
 
 <!-- Estructura contenido HTML -->
-<h2>Ejemplo 1: Altura</h2>
+<h2>Cantidad de árboles talados</h2>
 <div class="container">
   <!-- <div class="item_wrapper">
     <p class="num">1000</p>
