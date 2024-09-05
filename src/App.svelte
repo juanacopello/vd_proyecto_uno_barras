@@ -72,7 +72,7 @@
     font-size: 21px;
     font-weight: bold;
     margin: 0;
-    color: #ee0001;
+    color: green;
   }
   .num_2 {
     font-size: 18px;
